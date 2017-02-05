@@ -1,0 +1,8 @@
+com\demo\sample\WordCount$Person.class
+com\demo\sample\WordCount.class
+com\demo\sample\WordCount$LikesPandas.class
+com\demo\sample\WordCount$FilteredValue.class
+com\demo\sample\WordCount$ParseLine.class
+com\demo\sample\WordCount$ConvertToNativeType.class
+com\demo\sample\WordCount$ParseJson.class
+com\demo\sample\WordCount$FilterPair.class
