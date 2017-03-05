@@ -16,9 +16,18 @@
       <version>1.6.2</version>
       <scope>provided</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.databricks/spark-xml_2.10 -->
+	<dependency>
+    	<groupId>com.databricks</groupId>
+    	<artifactId>spark-xml_2.10</artifactId>
+    	<version>0.2.0</version>
+	</dependency>
+    
   </dependencies>
   <properties>
     <java.version>1.6</java.version>
+     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <sonar.language>java</sonar.language>
   </properties>
   <build>
     <pluginManagement>
